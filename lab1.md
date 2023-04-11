@@ -1,15 +1,17 @@
 # Lab Report 1
 
 # Step 1:
-Look up your account on this website, https://sdacs.ucsd.edu/~icc/index.php, after you have found your account for the class CS 15L you want to follow this https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view in order to reset your password.
+Look up your account on [this website](https://sdacs.ucsd.edu/~icc/index.php), after you have found your account for the class CS 15L you want to follow [this](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view) in order to reset your password.
 
 # Step 2:
-Download VS Code from this website https://code.visualstudio.com/ Just download the version for your operating system.
+Download VS Code from [this website](https://code.visualstudio.com/) Just download the version for your operating system.
 It should look like this ![Image](Screenshot 2023-04-10 at 6.24.32 PM.png)
 
 # Step 3:
-Because I am on a Mac I did not need to download git, but if you are on windows download git here https://gitforwindows.org/
+Because I am on a Mac I did not need to download git, but if you are on windows download git [here](https://gitforwindows.org/)
+
 Open the terminal on VS Code on the top bar ![Image](Screenshot 2023-04-10 at 6.29.55 PM.png)
+
 Then type in this ssh cs15lsp23zz@ieng6.ucsd.edu (replace the zz with whatever corresponds with your username from step 1)
 Getting this message is normal:
 ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
