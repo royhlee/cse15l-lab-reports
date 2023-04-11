@@ -13,20 +13,23 @@ Because I am on a Mac I did not need to download git, but if you are on windows 
 Open the terminal on VS Code on the top bar ![Image](Screenshot 2023-04-10 at 6.29.55 PM.png)
 
 Then type in this **ssh cs15lsp23zz@ieng6.ucsd.edu** (replace the zz with whatever corresponds with your username from step 1)
+
 Getting this message is normal:
-⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
+<sub> ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
 The authenticity of host 'ieng6.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
+<sub>
 
 Type yes 
 
 On your client it would show:
-⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
+<sub> ⤇ ssh cs15lsp23zz@ieng6.ucsd.edu
 The authenticity of host 'ieng6-202.ucsd.edu (128.54.70.227)' can't be established.
 RSA key fingerprint is SHA256:ksruYwhnYH+sySHnHAtLUHngrPEyZTDl/1x99wUQcec.
 Are you sure you want to continue connecting (yes/no/[fingerprint])? 
-Password: 
+Password: 	
+<sub>
 
 Type in your password from Step 1, it will not show anything while typing but it is typing
 
