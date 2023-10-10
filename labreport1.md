@@ -36,7 +36,7 @@ It is the same as the directory argument where it just shows all of the availabl
 
 ### No Arguments:
 Nothing is outputted and the working directory is not set, but the working directory is set at home.
-![Image](cat1.png)
+![Image](cat1new.png)
 
 ### Directory Argument:
 Outputs that messages is a directory and that it was able to access and find it. The working directory is still at home.
