@@ -10,7 +10,7 @@ This shows that when cd is run without arguments, nothing happens and the workin
 
 ### Directory Argument:
 When running the cd command to a directory it changes the working directory to the specified directory. In this case, the working directory changes to home/lecture1/messages. When the cd command is run again it brings the working directory back to home. This is not an error.
-
+<br />
 ![Image](cdwithdirectory.PNG)
 
 ### File Argument:
