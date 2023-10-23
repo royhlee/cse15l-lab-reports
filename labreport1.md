@@ -6,11 +6,11 @@
 
 ### No Arguments:
 This shows that when cd is run without arguments, nothing happens and the working directory is still at home. When the working directory is now set to home/lecture1 running the cd command sends it back to the home directory this is not an error.
-![Image](cd_with_argument.PNG)
+![Image](cdwithargument.PNG)
 
 ### Directory Argument:
 When running the cd command to a directory it changes the working directory to the specified directory. In this case, the working directory changes to home/lecture1/messages. When the cd command is run again it brings the working directory back to home. This is not an error.
-![Image](cd_with_directory.PNG)
+![Image](cdwithdirectory.PNG)
 
 ### File Argument:
 There is an error that shows that the file is not a directory, you cannot change the directory to a file it was trying to do here the working directory is still at home because of the error.
