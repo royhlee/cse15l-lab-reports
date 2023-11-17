@@ -1,6 +1,6 @@
 # **Lab Report 3 Roy Lee**
 
-## Bugs <br>
+## Bugs
 ### Failure-inducing input
 ``` 
 @Test
@@ -46,7 +46,7 @@ OK (2 tests)
 ```
 
 
-## Commands <br>
+## Commands
 
 ### grep Command-line Options
 **-i** <br>
@@ -97,7 +97,7 @@ technical/biomed/gb-2003-4-6-r41.txt
 ```
 This is finding all of the files that contain the word "bIoMeD" regardless of how it is capitalized. What is useful in this situation is that although the file names are in lowercase in this example, if we were to look in another set of files and someone may have named their file with different cases we are able to still locate where it is.
 
-# n
+# -n
 ```
 roylee@Roys-MacBook-Air docsearch % grep -n "73" find-results.txt
 35:technical/biomed/rr73.txt
