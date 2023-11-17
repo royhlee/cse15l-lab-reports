@@ -1,0 +1,20 @@
+# **Lab Report 3 Roy Lee**
+
+##Bugs
+### Failure-inducing input
+``` 
+@Test
+  public void testReversed() {
+    int[] input1 = {1,2,3};
+    assertArrayEquals(new int[]{3,2,1}, ArrayExamples.reversed(input1));
+  }
+```
+
+### Non-failure-inducing input
+```
+@Test
+  public void testReversed1() {
+    int[] input1 = {1};
+    assertArrayEquals(new int[]{1}, ArrayExamples.reversed(input1));
+  }
+```
