@@ -49,19 +49,19 @@ OK (2 tests)
 ## Commands
 
 ### grep Command-line Options
-==-i==
+**-i**
 This command uses grep in order to search a file regardless of whether the pattern is uppercase or lowercase within the file. <br>
 "This option makes grep case-insensitive, meaning it will match patterns regardless of whether the characters are uppercase or lowercase." (Chatgpt)
 
-==-n==
+**-n**
 This command shows the files that contain the pattern along with the line number in which they were found. <br>
 "This option displays the line numbers along with the lines that match the pattern. This is useful when you want to quickly locate where in a file a particular pattern occurs." (Chatgpt
 
-==-o==
+**-o**
 This command shows all of the lines with the pattern and only the input that is given. <br>
 "This option prints only the part of the line that matches the specified pattern. It is useful when you are interested in extracting specific content from each line." (Chatgpt)
 
-==-c==
+**-c**
 This command counts all of the lines with the specific pattern and then outputs the total amount. <br>
 "This option displays only the count of lines that match the pattern, rather than the lines themselves. It's useful when you want a quick summary of how many lines contain the specified pattern." (Chatgpt)
 
