@@ -19,7 +19,7 @@
   }
 ```
 ### Symptom
-![Image](labreport3symptom.png)
+![Image](labreport3symptom.jpg)
 ### Bug
 ```
 for(int i = 0; i < arr.length; i += 1) {
