@@ -145,10 +145,10 @@ roylee@Roys-MacBook-Air docsearch % grep -c "73" find-results.txt
 This finds the total amount of files that contain the number "73" within it. This can be practical where you may be able to see how many files were submitted on the same date or how many similar files there are from one another.
 
 # Prompts for ChatGPT
-User:
+User: <br>
 4 interesting grep command line options
 
-ChatGPT:
+ChatGPT: <br>
 grep is a powerful command-line utility in Unix and Unix-like operating systems that is used to search for patterns in text data. Here are four interesting and useful options for grep:
 
 -i, --ignore-case:
@@ -173,10 +173,10 @@ bash
 grep -o "pattern" filename
 Remember that the effectiveness of these options may vary depending on the version of grep and the operating system you are using. Always check the documentation or manual (man grep) for the specific options supported by your system.
 
-User:
+User: <br>
 4 more interesting options in grep
 
-ChatGPT:
+ChatGPT: <br>
 Certainly! Here are four more interesting options for the grep command:
 
 -A num, --after-context=num:
