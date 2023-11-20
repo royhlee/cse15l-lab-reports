@@ -8,7 +8,7 @@ javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java <br>
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests <br>
 I used these commands.<br>
 
-(:) (edit) (ListExamples.java) (br)
+(:) (edit) (ListExamples.java) <br>
 Now I am opening the file ListExamples.java to get into the file and edit it.<br>
 
 (down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)(down)
