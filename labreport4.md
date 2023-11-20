@@ -4,7 +4,7 @@
 (:) (!) (ctrl+v) <enter> (:) (!) (ctrl+v) <enter> <br>
 Here I was going into the terminal in vim and compiling the tests <br>
 
-javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
+javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java <br>
 java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests <br>
 I used these commands.<br>
 
