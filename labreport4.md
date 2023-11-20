@@ -23,7 +23,7 @@ Saved the file and exited vim. <br>
 
 (vim) <br>
 Reopened vim editor <br>
-> (:) (!) (ctrl+v) <enter> (:) (!) (ctrl+v) <enter> <br>
+(:) (!) (ctrl+v) <enter> (:) (!) (ctrl+v) <enter> <br>
 And running the same tests again.
 
 
