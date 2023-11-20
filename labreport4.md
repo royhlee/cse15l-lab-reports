@@ -9,10 +9,10 @@ java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnit
 I used these commands.<br>
 
 <:> <edit> <ListExamples.java> <br>
-Now I am opening the file ListExamples.java to get into the file and edit it.<br>
+Now I am opening the file ListExamples.java to get into the file and edit it.<be>
 
-<down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down>
-<right><right><right><right><right><right><right><right><right><right><right> <br>
+"<down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down><down>
+<right><right><right><right><right><right><right><right><right><right><right>" <br>
 Here I was navigating through the file <br>
 
 <x><a><left><2> <br>
