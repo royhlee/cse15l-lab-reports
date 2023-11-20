@@ -55,7 +55,7 @@ This command uses grep in order to search a file regardless of whether the patte
 
 **-n** <br>
 This command shows the files that contain the pattern along with the line number in which they were found. <br>
-"This option displays the line numbers along with the lines that match the pattern. This is useful when you want to quickly locate where in a file a particular pattern occurs." (Chatgpt
+"This option displays the line numbers along with the lines that match the pattern. This is useful when you want to quickly locate where in a file a particular pattern occurs." (Chatgpt)
 
 **-o** <br>
 This command shows all of the lines with the pattern and only the input that is given. <br>
