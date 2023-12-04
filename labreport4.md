@@ -1,7 +1,16 @@
 # Lab Report 4 Roy Lee
 
 ## Commands
-(:) (!) (ctrl+v) <enter> (:) (!) (ctrl+v) <enter> <br>
+### Step 4: <br>
+(vim) <enter> (:) (!) <ctrl-v> _ssh cs15lfa23eo@ieng6.ucsd.edu was copied onto my clipboard_ <enter> _This inputted the command into my terminal and exited me out of vim but logged me into eng6_ <br>
+### Step 5: <br>
+(vim) <enter> (:) (!) <ctrl-v> <git clone> _The command that was copied onto my clipboard was git clone git@github.com:ucsd-cse15l-s23/lab7.git_
+
+
+
+
+
+(vim) <enter> (:) (!) <ctrl+v> <enter> <enter> _This was the pasted from my clipboard javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java_ <br> (:) (!) <ctrl+v> <enter> <br>
 Here I was going into the terminal in vim and compiling the tests <br>
 
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java <br>
