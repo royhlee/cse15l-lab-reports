@@ -19,7 +19,7 @@ After changing the i+=0 to i++ there is an error message that shows that the arr
 ### Information
 **Files & Directories Needed**: Currently in the working directory Lab3 <br>
 ![Image](lab5files.png)
-**Content**: ![Image](content1.png) ![Image](content3.png) ![Image](content4.png) ![Image](content5.png) ![Image](content6.png) ![Image](content7.png) <br>
+**Content**: ![Image](content1.png) ![Image](content3.png) ![Image](content4.png) ![Image](content5.png) ![Image](content73.png) ![Image](content7.png) <br>
 **Command Line**: `bash test.sh` which holds the script of 
 ```
 javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java
