@@ -7,7 +7,7 @@ Keys Pressed:`(vim)<enter>(:)(!)<ctrl+v><enter>` <br>  _`ssh cs15lfa23eo@ieng6.u
 ![Image](lab72.png)
 ![Image](lab73.png)
 ### Step 5: <br>
-Keys Pressed: `(vim)<enter>(:)(!)<ctrl-v><enter><enter<` <br> _`git clone git@github.com:ucsd-cse15l-s23/lab7.git` was copied in my clipboard_ <br>
+Keys Pressed: `(vim)<enter>(:)(!)<ctrl-v><enter><enter>` <br> _`git clone git@github.com:ucsd-cse15l-s23/lab7.git` was copied in my clipboard_ <br>
 ![Image](lab74.png)
 ![Image](lab75.png)
 ### Step 6: <br>
@@ -16,7 +16,7 @@ Keys Pressed: `(vim)<enter>(:)(cd)<space>(lab7)<enter>(:)(!)(bash)<space>(test.s
 ![Image](lab78.png)
 ![Image](lab82.png)
 ### Step 7: <br>
-Keys Pressed: `(:)(edit)(ListExamples.java)<14><j><21><l><x><left><x><left<x><20><h><29><j><11><l><x><i><2><esc>(:)(w)(q)<enter`<br>
+Keys Pressed: `(:)(edit)(ListExamples.java)<14><j><21><l><x><left><x><left><x><20><h><29><j><11><l><x><i><2><esc>(:)(w)(q)<enter>`<br>
 ![Image](lab79.png)
 ![Image](lab80.png)
 ![Image](lab81.png)
