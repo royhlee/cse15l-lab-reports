@@ -2,7 +2,7 @@
 
 ## Commands
 ### Step 4: <br>
-Keys Pressed:(vim) <enter> (:) (!) <ctrl-v> <br>  _`ssh cs15lfa23eo@ieng6.ucsd.edu` was copied onto my clipboard_ <enter> _This inputted the command into my terminal and exited me out of vim but logged me into eng6_ <br>
+Keys Pressed:(vim) <enter> (:) (!) <ctrl+v> <br>  _`ssh cs15lfa23eo@ieng6.ucsd.edu` was copied onto my clipboard_ <enter> _This inputted the command into my terminal and exited me out of vim but logged me into eng6_ <br>
 ### Step 5: <br>
 (vim) <enter> (:) (!) <ctrl-v> <br> _The command that was copied onto my clipboard was ==git clone git@github.com:ucsd-cse15l-s23/lab7.git==_ <br>
 
